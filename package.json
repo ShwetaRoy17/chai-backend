@@ -2,14 +2,19 @@
   "name": "chaiaurcode",
   "version": "1.0.0",
   "description": "backend project with chai and code",
+  "type": "module",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+   "dev":"nodemon src/index.js"
   },
   "keywords": [
     "javascript",
     "backend"
   ],
   "author": "Shweta Roy",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+
 }
