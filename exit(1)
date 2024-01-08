@@ -1,0 +1,35 @@
+[33mcommit f08904b0a4fdbee2c1a4495856ad41dea2ded196[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Shweta Roy <royshweta1712@gmail.com>
+Date:   Mon Jan 1 17:40:07 2024 +0530
+
+    added user and video model
+
+[33mcommit dfc502429dade499741402bd691e70c67a12d9f0[m
+Author: Shweta Roy <royshweta1712@gmail.com>
+Date:   Sun Dec 31 22:58:55 2023 +0530
+
+    utility classes made
+
+[33mcommit 0fc9966a03f127ff8b3b6f078d7d9c70f3bf25df[m
+Author: Shweta Roy <royshweta1712@gmail.com>
+Date:   Sun Dec 31 19:12:31 2023 +0530
+
+    database connected to mongodb atlas
+
+[33mcommit c73f0aa37bf270f3ddf1fe4fb650ca816ea891d1[m
+Author: Shweta Roy <royshweta1712@gmail.com>
+Date:   Sat Dec 30 10:17:22 2023 +0530
+
+    prettier added
+
+[33mcommit 8f3664802e77a1dda82fb603db67e94725ffbfcb[m
+Author: Shweta Roy <royshweta1712@gmail.com>
+Date:   Sat Dec 30 10:03:50 2023 +0530
+
+    Project files setup part 1
+
+[33mcommit 25c72fe5ee3e11db0b5768611301d53fae1e7357[m
+Author: Shweta Roy <royshweta1712@gmail.com>
+Date:   Sat Dec 30 09:36:49 2023 +0530
+
+    project initilisation
